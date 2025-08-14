@@ -1,0 +1,19 @@
+#card{
+    display: flex;
+    padding: 3%;
+    gap: 20px;
+}
+.card-img{
+    height: 200px;
+    width: 300px;
+}
+.img-div{
+    margin-left: 3%;
+}
+.video-section{
+    display: flex;
+    padding: 3%;
+    gap: 10px;
+    margin: round 20px;
+
+}

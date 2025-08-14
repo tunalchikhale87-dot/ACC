@@ -1,0 +1,27 @@
+#headerDiv{
+    background-color: black;
+    height: 40px;
+    color: aliceblue;
+    display: flex;
+    gap: 55%;
+    font-size: 20px;
+    padding: 2%;
+    align-items: center;
+    border-radius: 10px;
+}
+.pages-ul{
+    display: flex;
+}
+.deco{
+    text-decoration: none;
+    color: aliceblue;
+}
+li{
+    list-style: none;
+    padding: 8px;
+}
+#logo img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}

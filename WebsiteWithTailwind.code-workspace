@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../project"
+		},
+		{
+			"path": "../Images2"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
